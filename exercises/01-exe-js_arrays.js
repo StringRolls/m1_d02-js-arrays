@@ -3,6 +3,9 @@
 //Given the array
 const favorites = ['javascript', 'html', 'css'];
 
+// iterate over it and console.log each element
+// ... your code here
+
 // remove first element
 // ... your code here
 console.log(favorites); // => [ 'html', 'css' ]
